@@ -38,8 +38,8 @@
   <style name="Macro" foreground="#569cd6"/>
   <style name="Label" foreground="#cccccc"/>
   <style name="Comment" foreground="#6a9955"/>
-  <style name="Doxygen.Comment" foreground="#548b49"/>
-  <style name="Doxygen.Tag" foreground="#008000"/>
+  <style name="Doxygen.Comment" foreground="#6a9955"/>
+  <style name="Doxygen.Tag" foreground="#569cd6"/>
   <style name="VisualWhitespace" foreground="#29e3e4e2"/>
   <style name="QmlLocalId" foreground="#9acfd6" italic="true"/>
   <style name="QmlExternalId" foreground="#9aa7d6" italic="true"/>
