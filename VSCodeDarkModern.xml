@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="VS Code Dark Modern">
   <style name="Text" foreground="#cccccc" background="#1f1f1f"/>
-  <style name="Link" foreground="#537639" underlineStyle="SingleUnderline"/>
+  <style name="Link" foreground="#569cd6" underlineStyle="SingleUnderline"/>
   <style name="Selection" background="#264f78"/>
   <style name="LineNumber" foreground="#6e7681"/>
   <style name="SearchResult" foreground="#000000" background="#9e6a03"/>
