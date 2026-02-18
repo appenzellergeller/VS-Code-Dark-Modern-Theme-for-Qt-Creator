@@ -11,7 +11,7 @@
   <style name="SearchScope" foreground="#000000" background="#38ea5c00"/>
   <style name="Parentheses" underlineColor="#ffffff" underlineStyle="SingleUnderline"/>
   <style name="ParenthesesMismatch" underlineColor="#ff0000" underlineStyle="WaveUnderline"/>
-  <style name="AutoComplete" foreground="#0000be" background="#1e1e1e"/>
+  <style name="AutoComplete"/>
   <style name="CurrentLine" foreground="#000000" background="#282828"/>
   <style name="CurrentLineNumber" foreground="#cccccc" bold="true"/>
   <style name="Occurrences" foreground="#000000"/>
